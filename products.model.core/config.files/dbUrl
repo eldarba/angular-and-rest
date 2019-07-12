@@ -1,0 +1,5 @@
+driver name:
+org.apache.derby.jdbc.ClientDriver
+
+database url:
+jdbc:derby://localhost:1527/products.db
